@@ -8,16 +8,3 @@ body {
   min-height: 100vh;
 }
 
-#root .App{
-  text-align: center;
-}
-
-#root .App input{
-  padding: 0.2em;
-  height: 2.5em;
-  width: 70%;
-}
-
-#root .App ol{
-  margin-top: 2em;
-}
