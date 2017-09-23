@@ -1,6 +1,8 @@
 import React, { Component } from 'react';
 // import logo from './logo.svg';
 import './App.css';
+import 'normalize.css'
+import './reset.css'
 import TodoInput from './TodoInput.js'
 import TodoItem from './TodoItem.js'
 
