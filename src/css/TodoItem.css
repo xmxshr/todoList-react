@@ -1,0 +1,39 @@
+
+.TodoItem{
+  margin: 0 1em;
+  padding: .5em;
+  display: flex;
+  align-items: center;
+}
+
+.TodoItem .title-wrap{
+  width: 370px;
+  height: 20px;
+  padding: 0 .5em;
+  overflow: hidden;
+  text-align: left;
+  padding-left: 30px;
+}
+
+.TodoItem input{
+  width: 1.5em;
+  height: 1.5em;
+  /* visibility: hidden;
+  position: absolute; */
+}
+
+/* .TodoItem label{
+  color: #887c7c;
+}
+
+.TodoItem input[type=checkbox]:checked + label{
+  color: red;
+} */
+
+
+
+.completed{
+  text-decoration: line-through;
+  color: #aaa;
+}
+

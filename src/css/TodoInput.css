@@ -1,0 +1,20 @@
+.input-wrapper{
+  position: relative;
+  margin-top: 40px;
+}
+
+
+.input-wrapper .TodoInput{
+  padding: 0.4em;
+  padding-right: 35px;
+  height: 2.5em;
+  width: 80%;
+}
+
+.input-wrapper .back{
+  font-size: 23px;
+  position: absolute;
+  top: 6px;
+  right: 60px;
+  color: #a29e9e;
+}
