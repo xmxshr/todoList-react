@@ -2,7 +2,7 @@
   "name": "todolist-react",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://xmxshr.github.io/todolist-react/build/index.html",
+  "homepage": "https://xmxshr.github.io/todolist-react/build",
   "dependencies": {
     "leancloud-storage": "^3.2.1",
     "normalize.css": "^7.0.0",
