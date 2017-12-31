@@ -2,5 +2,8 @@
 
 使用 React 实现的一个待办列表。可以增加、删除待办事项。  
 
-利用脚手架工具 create-react-app 构建的开发环境。
+### 前端
+利用脚手架工具 create-react-app 构建的开发环境。  
 
+### 数据存储
+利用 leanCloud
