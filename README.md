@@ -1,6 +1,6 @@
 # 待办应用
 
-使用 React 实现的一个待办列表。可以增加、删除待办事项，提供登录功能，并支持找回密码。 
+使用 React 实现的一个待办列表。可以增加、删除待办事项，提供登录功能，并支持找回密码。  
 [预览链接](https://xmxshr.github.io/todolist-react/build/index.html)
 
 ### 测试账号
